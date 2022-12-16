@@ -2,7 +2,7 @@
 title: "Premier Post"
 date: 2022-12-16T17:10:40+01:00
 tags: []
-draft: true
+draft: false
 ---
 
 Par où commencer ... Tout d'abord bienvenue sur ce blog qui me servira à la fois de journal de bord dans mes aventures entrepreneuriales ainsi que de lieu de partage de mes découvertes, avis, tests et peut être aussi conseils (en toute humilité bien sur), sur les sujets qui m'intéressent. Ces sujets seront très probablement très orientés tech car c'est mon domaine et c'est ce qui me passionne, entreprenariat, mais ils pourront aussi concerner le monde du jeu vidéo, de la littérature, ainsi que tout ce qui touche à la productivitié (mais pas en mode gourou, je suis plutôt dans une démarche de simplification / d'allègement).
