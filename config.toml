@@ -12,7 +12,7 @@ theme = 'rocinante'
 [params]
   favicon = "/icons/favicon.png"
   mainSections = ["posts", "photos"]
-  email = "mail@example.com"
+  email = "contact@slaynn.com"
   about = """
 Bonjour à tous, je suis Thomas aka Slaynn.
 
@@ -24,7 +24,7 @@ Ce blog est mon journal de bord dans ces différentes aventures.
 [[params.links]]
     [[params.links.link]]
       name = "À propos"
-      href = "/blog_slaynn/about"
+      href = "/about"
     [[params.links.link]]
       name = "Email"
       href = "/contact"
