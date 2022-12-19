@@ -1,4 +1,45 @@
-baseURL = 'https://slaynn.github.io/blog_slaynn'
+baseURL = 'https://slaynn.com'
 languageCode = 'fr-fr'
 title = 'Slaynn Blog'
 theme = 'rocinante'
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  favicon = "/icons/favicon.png"
+  mainSections = ["posts", "photos"]
+  email = "mail@example.com"
+  about = """
+Bonjour à tous, je suis Thomas aka Slaynn.
+
+Je suis CTO / développeur web et mobile Freelance ainsi qu'entrepreneur de la tech (et CEO de Tombol'App).
+
+Ce blog est mon journal de bord dans ces différentes aventures.
+"""
+
+[[params.links]]
+    [[params.links.link]]
+      name = "À propos"
+      href = "/blog_slaynn/about"
+    [[params.links.link]]
+      name = "Email"
+      href = "/contact"
+      smart_email_link = true
+
+[[params.links]]
+    [[params.links.link]]
+      name = "Github"
+      href = "https://github.com/slaynn"
+      new_tab = true
+    [[params.links.link]]
+      name = "Mastodon"
+      href = "https://piaille.fr/@slaynn"
+      new_tab = true
+    [[params.links.link]]
+      name = "Twitter"
+      href = "https://twitter.com/slaynn"
+      new_tab = true
