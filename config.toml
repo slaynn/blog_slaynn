@@ -1,7 +1,7 @@
 baseURL = 'https://slaynn.com'
 languageCode = 'fr-fr'
 title = 'Slaynn Blog'
-theme = 'rocinante'
+theme = 'mon_theme'
 
 [markup]
   [markup.highlight]
