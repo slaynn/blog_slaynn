@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Slaynn Blog</title>
+    <link>https://slaynn.com/posts/</link>
+    <description>Recent content in Posts on Slaynn Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 16 Dec 2022 17:10:40 +0100</lastBuildDate><atom:link href="https://slaynn.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier Post</title>
+      <link>https://slaynn.com/posts/my-first-post/</link>
+      <pubDate>Fri, 16 Dec 2022 17:10:40 +0100</pubDate>
+      
+      <guid>https://slaynn.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Par où commencer &amp;hellip; Tout d&amp;rsquo;abord bienvenue sur ce blog qui me servira à la fois de journal de bord dans mes aventures entrepreneuriales ainsi que de lieu de partage de mes découvertes, avis, tests et peut être aussi conseils (en toute humilité bien sur), sur les sujets qui m&amp;rsquo;intéressent. Ces sujets seront très probablement très orientés tech car c&amp;rsquo;est mon domaine et c&amp;rsquo;est ce qui me passionne, entreprenariat, mais ils pourront aussi concerner le monde du jeu vidéo, de la littérature, ainsi que tout ce qui touche à la productivitié (mais pas en mode gourou, je suis plutôt dans une démarche de simplification / d&amp;rsquo;allègement).&lt;/p&gt;
+&lt;p&gt;Afin que vous puissiez vous faire une idée l&amp;rsquo;intérêt ou non de ce blog pour vous, je pense qu&amp;rsquo;une présentation rapide pourra vous aiguiller.
+Je m&amp;rsquo;appelle donc Thomas Ledesert et je suis, au moment de l&amp;rsquo;écriture de ce post, développeur web et mobile freelance ainsi que solo entrepreneur d&amp;rsquo;une startup nommée Tombol&amp;rsquo;App qui édite le jeu mobile du même nom (un jeu de tombola et de tickets à gratter tirant ses revenus de la publicité et permettant aux joueurs de gagner de l&amp;rsquo;argent réél). Si vous souhaitez plus de détail n&amp;rsquo;hésitez pas à consulter la page &amp;ldquo;A propos&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
