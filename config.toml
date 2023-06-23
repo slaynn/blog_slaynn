@@ -3,6 +3,28 @@ languageCode = 'fr-fr'
 title = 'Slaynn Blog'
 theme = 'mon_theme'
 
+defaultContentLanguage = 'fr'
+[languages]
+  [languages.fr]
+    title = 'Slaynn blog'
+    weight = 1
+    [languages.fr.params]
+  [languages.en]
+    title = 'Slaynn blog'
+    weight = 2
+    [languages.en.params]
+       about = """
+Hi, I'm Thomas Ledesert aka Slaynn.
+
+I'm a CTO / web and mobile Freelance developer and a tech entrepreneur.
+
+This blog is my logbook for all those adventures
+
+<a rel="me" href="https://piaille.fr/@slaynn"> </a>
+
+"""
+  
+
 [markup]
   [markup.highlight]
     style = "monokailight"
