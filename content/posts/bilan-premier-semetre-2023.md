@@ -2,7 +2,7 @@
 title: "Bilan Premier Semetre 2023"
 date: 2023-06-23T15:48:21+02:00
 tags: []
-draft: true
+draft: false
 ---
 
 La première moitié de l’année touche à sa fin et je trouve enfin le temps de rédiger un blog post.
