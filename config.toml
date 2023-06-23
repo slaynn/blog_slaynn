@@ -9,11 +9,31 @@ defaultContentLanguage = 'fr'
     title = 'Slaynn blog'
     weight = 1
     [languages.fr.params]
+      [[languages.fr.params.links]]
+        [[languages.fr.params.links.link]]
+          name = "English version"
+          href = "/en"
+        [[languages.fr.params.links.link]]
+          name = "Email"
+          href = "/contact"
+          smart_email_link = true
+      [[languages.fr.params.links]]
+        [[languages.fr.params.links.link]]
+          name = "Github"
+          href = "https://github.com/slaynn"
+          new_tab = true
+        [[languages.fr.params.links.link]]
+          name = "Mastodon"
+          href = "https://piaille.fr/@slaynn"
+          new_tab = true
+        [[languages.fr.params.links.link]]
+          name = "Twitter"
+          href = "https://twitter.com/slaynn"
+          new_tab = true
   [languages.en]
     title = 'Slaynn blog'
     weight = 2
-    [languages.en.params]
-       about = """
+    about = """
 Hi, I'm Thomas Ledesert aka Slaynn.
 
 I'm a CTO / web and mobile Freelance developer and a tech entrepreneur.
@@ -23,7 +43,29 @@ This blog is my logbook for all those adventures
 <a rel="me" href="https://piaille.fr/@slaynn"> </a>
 
 """
-  
+    [languages.en.params]
+      [[languages.en.params.links]]
+        [[languages.en.params.links.link]]
+          name = "French version"
+          href = "/"
+        [[languages.en.params.links.link]]
+          name = "Email"
+          href = "/contact"
+          smart_email_link = true
+      [[languages.en.params.links]]
+        [[languages.en.params.links.link]]
+          name = "Github"
+          href = "https://github.com/slaynn"
+          new_tab = true
+        [[languages.en.params.links.link]]
+          name = "Mastodon"
+          href = "https://piaille.fr/@slaynn"
+          new_tab = true
+        [[languages.en.params.links.link]]
+          name = "Twitter"
+          href = "https://twitter.com/slaynn"
+          new_tab = true
+       
 
 [markup]
   [markup.highlight]
