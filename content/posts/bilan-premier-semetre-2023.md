@@ -7,7 +7,7 @@ draft: false
 
 La première moitié de l’année touche à sa fin et je trouve enfin le temps de rédiger un blog post.
 
-Ces 6 mois ont été particulièrement intenses, principalement sur 2 gros projets Freelance, Pomme d’appli et Tous FAMiliés (où je suis aussi co-fondateur). J’ai réussi à dégager un peu de temps pour Tombol’App (un de mes side projet) et pour quelques intervention sur un projet Freelance long terme, In-SCI.
+Ces 6 mois ont été particulièrement intenses, principalement sur 2 gros projets Freelance, Pomme d’appli et Tous FAMiliés (où je suis aussi co-fondateur). J’ai réussi à dégager un peu de temps pour Tombol’App (un de mes side projet) et pour quelques interventions sur un projet Freelance long terme, In-SCI.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ Ce projet m’a aussi permis d’expérimenter l’utilisation d’Inertia.js (a
 
 Le projet consiste en une application mobile (uniquement smartphone pour le moment) multiplateforme (iOS et Android) de type réseau social familial privé. Les destinataires sélectionnés des familles abonnées reçoivent un journal imprimé de leurs publications du mois passé, agrémenté de contenus complémentaires (jeux, recettes…).
 
-Mes lecteurs français verront tout de suite de quoi il s’agit car un « concurrent » fait énormément de pub TV depuis Noel dernier.
+Mes lecteurs français verront tout de suite de quoi il s’agit car un « concurrent » fait énormément de pub TV depuis Noel dernier.
 
 Ce projet a démarré en décembre de l'année dernière et est officiellement disponible sur les stores mobiles depuis le 1er juin.
 
@@ -39,6 +39,6 @@ Bref une première moitié d'année très chargée en projets Freelance. J'ai en
 
 La seconde moitié pour 2023 est encore floue au niveau Freelance, mais je vais pouvoir prendre un peu de temps dans les semaines qui viennent pour pouvoir peaufiner ma présence en ligne. Je vais commencer par migrer et revoir un peu mon site web pro [Koojira Studio](https://koojira.com). Puis j'attaquerais ma "stratégie" de communication.
 
-Aujourd'hui ma communication est quasi inexistante et il faut que j'y remédie. Je suis dans la zone de ceux qui ne postent pas car "ça a surement déjà été dit", mais il est certain qu'en 20 ans d'expérience je dois bien avoir quelques informations intéressantes à partager. Donc Go poster vraiment maintenant.
+Aujourd'hui ma communication est quasi inexistante et il faut que j'y remédie. Je suis dans la zone de ceux qui ne postent pas car "ça a sûrement déjà été dit", mais il est certain qu'en 20 ans d'expérience je dois bien avoir quelques informations intéressantes à partager. Donc Go poster vraiment maintenant.
 
 Et ça commence maintenant !
